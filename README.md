@@ -1,8 +1,8 @@
  Project Files 
-•	fruits_quality_system.py` | AI model training, prediction functions, and image processing 
-•	streamlit_app.py` | Interactive web dashboard with real-time analysis |
-•	produce_fruit_veg_quality.py` | SQLite database storing all predictions and analytics |
-•	improved_produce_quality_model.h5` | Trained TensorFlow model (76.67% accuracy) |
+•	(fruits_quality_system.py )AI model training, prediction functions, and image processing 
+•	(streamlit_app.py) Interactive web dashboard with real-time analysis 
+•	(produce_fruit_veg_quality.py )SQLite database storing all predictions and analytics 
+•	(improved_produce_quality_model.h5 )Trained TensorFlow model (76.67% accuracy) 
 
 Model Performance
 •	Classification Accuracy: 76.67%
@@ -32,3 +32,4 @@ Web Interface
 •	Interactive visualizations
 •	Responsive design
 •	Database connectivity
+
